@@ -1,0 +1,6 @@
+torchvision~=0.8.1
+pillow~=8.0.1
+flask~=2.0.1
+pandas~=1.2.1
+numpy~=1.18.5
+matplotlib~=3.3.4
